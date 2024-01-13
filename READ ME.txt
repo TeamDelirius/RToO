@@ -1,1 +1,15 @@
-Thanks for checking out Rson (Red's Scriptable Obby Notation)! To use this, it's fairly simple to use
+Thanks for checking out Rson (Red's Scriptable Obby Notation)! Below are a few notes before we get you all going with Rson.
+  - Every function added is made sure to be compatible with previous version
+  - Every function added is validated to be safe in Roblox
+
+So, how do you get RToO set up?
+  1) Open up your game with the RToO kit installed
+  2) Navigate to the "Rson" module within Replicated Storage (game.ReplicatedStorage.Rson)
+  3) Copy and paste the contents Rson.lua into the module script
+  4) You're all done!
+
+What if I want to contribute to RToO?
+  1) Awesome! It's really easy to do
+  2) Head to the Rson.lua file in Git, and click 'edit'
+  3) Add your function AFTER TESTING
+  4) Commit the changes; and it'll be improved by a moderator.
