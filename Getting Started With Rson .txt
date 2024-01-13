@@ -1,4 +1,4 @@
-Thanks for checking out Rson (Red's Scriptable Obby Notation)! Below are a few notes before we get you all going with Rson.
+Thanks for checking out R (Red's Scriptable Obby Notation)! Below are a few notes before we get you going.
   - Every function added is made sure to be compatible with previous version
   - Every function added is validated to be safe in Roblox
 
